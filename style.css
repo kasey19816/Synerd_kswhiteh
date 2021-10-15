@@ -1,0 +1,176 @@
+div.div1 {
+	height: 400px;
+	width: 400px;
+	background-color: darkred;
+	border-style: inset;
+	display: inline-block;
+	font-size: 25px;
+	padding: 7px;
+	border-width: 2px 4px 8px 16px;
+	font-style: italic;
+	color: hsl(250,48%,77%);
+	
+}
+
+div.div2 {
+	height: 400px;
+	width: 400px;
+	background-color: blue;
+	border-style: double;
+	font-size: 25px;
+	display: inline-block;
+	padding: 7px;
+	border-width: thick;
+	font-style: oblique;
+	color: rgb(178,278,225);
+	
+}
+
+div.div3 {
+	height: 400px;
+	width: 400px;
+	background-color: red;
+	border-style: dashed;
+	display: inline-block;
+	padding: 7px;
+	font-size: 25px;
+	border-width: thick;
+	font-style: normal;
+	color: #ffb3cd;
+}
+
+body {
+	background-color: black;
+	text-align: center;
+	
+}
+
+#img1 {
+	width: 600px;
+	height: 500px;
+	border: 5px solid blue;
+	text-align: center;
+}
+
+#img2 {
+	width: 500px;
+	height: 500px;
+	border: 10px solid red;
+	text-align: center;
+	padding: 5px;
+}
+
+
+#table1 {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	color: blue;
+}
+
+#td1 {
+	border: 3px solid purple;
+	padding: 3px;
+	
+}
+
+#td2 {
+	border: 3px solid purple;
+	padding: 3px;
+}
+
+#td3 {
+	border: 3px solid purple;
+	padding: 3px;
+
+}
+
+#table2 {
+	margin-left: auto;
+	margin-right: auto;
+	background-color: red;
+	
+}
+
+#td4 {
+	border: 10px solid blue;
+	padding: 5px;
+}
+
+#td5 {
+	border: 10px solid blue;
+	padding: 5px;
+}
+
+video {
+	width: 600px;
+	height: 500px;
+	border: 5px solid blue;
+}
+
+#table1 {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	color: blue;
+}
+
+nav {
+	font-size: 17px;
+	
+}
+
+div.div4 {
+	width: 400px;
+	height: 400px;
+
+	display: inline-block;
+	font-size: 25px;
+	border: 5px purple;
+	color: silver;
+	
+}
+
+div.div5 {
+	width: 400px;
+	height: 400px;
+	display: inline-block;
+	font-size: 25px;
+	border: 5px purple;
+	color: silver;
+}
+
+div.div6 {
+	width: 400px;
+	height: 400px;
+
+	display: inline-block;
+	font-size: 25px;
+	border: 5px purple;
+	color: silver;
+}
+
+h1 {
+	font-size: 40px;
+	text-align: center;
+	color: silver;
+	font-style: italic;
+}
+
+h3 {
+	font-size: 20px;
+	text-align: center;
+	color: silver;
+	font-style: italic;
+}
+
+
+
+
+
+	
+
+
+
+
+	
